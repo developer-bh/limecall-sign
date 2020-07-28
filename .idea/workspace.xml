@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a10e81ef-6b7c-452d-b3d5-ef8e5a44e597" name="Default" comment="" />
+    <list default="true" id="a10e81ef-6b7c-452d-b3d5-ef8e5a44e597" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.giignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="signin.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/templates/signin.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -26,17 +29,26 @@
       <file leaf-file-name="main.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/style/partials/main.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
+            <state relative-caret-position="3915">
               <caret line="261" column="53" selection-start-line="261" selection-start-column="53" selection-end-line="261" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="signin.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="signin.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/signin.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
               <caret line="56" column="117" selection-start-line="56" selection-start-column="113" selection-end-line="56" selection-end-column="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".giignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.giignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -54,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/style/partials/media.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -81,6 +93,9 @@
       <find>pass</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -106,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/signup.html" />
         <option value="$PROJECT_DIR$/src/templates/signup.html" />
         <option value="$PROJECT_DIR$/src/style/partials/main.sass" />
+        <option value="$PROJECT_DIR$/.giignore" />
       </list>
     </option>
   </component>
@@ -115,7 +131,7 @@
     <detection-done>true</detection-done>
     <gulpfiles>
       <GulpfileState>
-        <gulpfile-path />
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
       </GulpfileState>
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
@@ -135,6 +151,7 @@
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -146,35 +163,6 @@
             <path>
               <item name="Limecall signupsignin" type="b2602c69:ProjectViewProjectNode" />
               <item name="Limecall signup:signin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Limecall signupsignin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Limecall signup:signin" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Limecall signupsignin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Limecall signup:signin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Limecall signupsignin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Limecall signup:signin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Limecall signupsignin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Limecall signup:signin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Limecall signupsignin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Limecall signup:signin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,11 +210,12 @@
       <workItem from="1549368568289" duration="646000" />
       <workItem from="1553595053278" duration="2552000" />
       <workItem from="1595862504170" duration="10772000" />
+      <workItem from="1595968562497" duration="324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15607000" />
+    <option name="totallyTimeSpent" value="15931000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -238,28 +227,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="23" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32970026" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32714286" />
-      <window_info anchor="bottom" id="RNConsole" order="11" />
       <window_info id="Gulp" order="1" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24947146" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32970026" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32714286" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="6" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32714286" />
+      <window_info anchor="bottom" id="RNConsole" order="11" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32714286" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +258,41 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/templates/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/partials/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3915">
+          <caret line="261" column="53" selection-start-line="261" selection-start-column="53" selection-end-line="261" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="67" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/partials/media.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="117" selection-start-line="56" selection-start-column="113" selection-end-line="56" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build/js/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -286,13 +310,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/contact.html" />
     <entry file="file://$PROJECT_DIR$/build/contact.html" />
-    <entry file="file://$PROJECT_DIR$/src/templates/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/contact.html" />
     <entry file="file://$PROJECT_DIR$/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -335,13 +353,7 @@
     <entry file="file://$PROJECT_DIR$/src/style/partials/fonts.sass">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html" />
     <entry file="file://$PROJECT_DIR$/build/img/logo-limecall.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -377,7 +389,7 @@
     <entry file="file://$PROJECT_DIR$/src/style/partials/media.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -397,7 +409,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/style/partials/main.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
+        <state relative-caret-position="3915">
           <caret line="261" column="53" selection-start-line="261" selection-start-column="53" selection-end-line="261" selection-end-column="53" />
         </state>
       </provider>
@@ -406,6 +418,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="56" column="117" selection-start-line="56" selection-start-column="113" selection-end-line="56" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.giignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
